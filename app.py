@@ -59,7 +59,7 @@ try:
             # Sidebar Analytics
             with st.sidebar:
                 st.divider()
-                st.subheader("📊 Live Analytics")
+                st.subheader("Live Analytics")
                 latest_actual = country_df.iloc[-1]
                 latest_forecast = forecast.iloc[-1]
                 
