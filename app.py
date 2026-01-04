@@ -35,7 +35,7 @@ def load_local_data():
     return df
 
 # 4. Main Page Title
-st.title("Disease Spread / COVID Analysis 🦠")
+st.title("Disease Spread / COVID Analysis ")
 st.markdown("##### Bayesian Time-Series Forecasting for Epidemiological Trends")
 st.divider()
 
