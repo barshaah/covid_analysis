@@ -45,7 +45,7 @@ This project utilizes the official **WHO COVID-19 Global Daily Data**.
 3. **To Launch the Website**: Open your terminal in that folder and run:
     ```bash
    streamlit run app.py
-4.**Interact**:Select a country from the dropdown and click *"Generate Diagnostic Report"* to view the trends and AI predictions.
+4. **Interact**:Select a country from the dropdown and click *"Generate Diagnostic Report"* to view the trends and AI predictions.
 
 <img width="1074" height="734" alt="Screenshot 2026-01-04 at 4 40 19 PM" src="https://github.com/user-attachments/assets/47ddf92f-6669-4aa2-b21d-52bb4ebbd543" />
 
