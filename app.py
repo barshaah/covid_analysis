@@ -91,7 +91,7 @@ try:
             
             # 7. Detailed Summary Section (Simplified for Users)
             st.divider()
-            st.subheader("📋 Simplified Summary of Analysis")
+            st.subheader("Simplified Summary of Analysis")
             
             # Calculations for the summary
             total_actual = int(latest_actual['y'])
